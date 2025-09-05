@@ -1,1 +1,1 @@
-# Quantium-WEXP
+# Black Scholes Model
