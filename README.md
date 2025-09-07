@@ -14,7 +14,7 @@
 
 -Downloads live market data with **Yahoo Finance API**.  
 -Calculates log returns, expected returns, and volatility.  
--Runs as many **Monte Carlo Simulations** as you want (typically thousands) of stock price paths.  
+-Runs **Monte Carlo Simulations** of stock price paths.  
 -Generates nice, clear, professional visualisations:  
   -Option payoff at expiry.  
   -Historical stock price vs simulated future price paths.  
@@ -25,7 +25,7 @@
 
 ### Option Payoff Plot and Monte Carlo Simulation
 
-![ - ](Output.png)
+![Options P/L and Monte Carlo Simulation](images/Output.png)
 
 
 
