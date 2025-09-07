@@ -2,22 +2,22 @@
 
 ## Brief Descrioption
 
--Python-based project: 
--Simulates stock price movements using **Geometric Brownian Motion (GBM)**. 
--Visualises potential future price paths by combining real historical market data with **Monte Carlo Simulations**. 
--Estimates European option prices using the **Black-Scholes Model**. 
--Visualises **Option P/L Scenarios**.
+-Python-based project:   
+-Simulates stock price movements using **Geometric Brownian Motion (GBM)**.   
+-Visualises potential future price paths by combining real historical market data with **Monte Carlo Simulations**.   
+-Estimates European option prices using the **Black-Scholes Model**.   
+-Visualises **Option P/L Scenarios**.  
 
 
 
 ## Features
 
--Downloads live market data with **Yahoo Finance API**.
--Calculates log returns, expected returns, and volatility.
--Runs as many **Monte Carlo Simulations** as you want (typically thousands) of stock price paths.
--Generates nice, clear, professional visualisations:
-  -Option payoff at expiry.
-  -Historical stock price vs simulated future price paths.
+-Downloads live market data with **Yahoo Finance API**.  
+-Calculates log returns, expected returns, and volatility.  
+-Runs as many **Monte Carlo Simulations** as you want (typically thousands) of stock price paths.  
+-Generates nice, clear, professional visualisations:  
+  -Option payoff at expiry.  
+  -Historical stock price vs simulated future price paths.  
 
 
 
