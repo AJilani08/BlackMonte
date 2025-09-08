@@ -25,7 +25,11 @@
 
 ### Option Payoff Plot and Monte Carlo Simulation
 
-![Options P/L and Monte Carlo Simulation](image/Output.png)
+![EXAMPLE 1](images/Output.png)
+![EXAMPLE 2](images/Output_20250907_235132.png)
+![EXAMPLE 3](images/Output_20250907_235336.png)
+![EXAMPLE 4](images/Output_20250907_235430.png)
+![EXAMPLE 5](images/Output_20250907_235538.png)
 
 
 
