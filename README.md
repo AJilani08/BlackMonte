@@ -1,6 +1,6 @@
 # BlackMonte: Monte Carlo Simulation & Black-Scholes Option Pricing
 
-## Brief Descrioption
+## Brief Description
 
 -Python-based project:   
 -Simulates stock price movements using **Geometric Brownian Motion (GBM)**.   
